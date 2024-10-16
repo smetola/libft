@@ -6,8 +6,8 @@
 
 Libft implementa una serie de funciones comunes y esenciales, tales como:
 
-- Manipulación de cadenas y memoria (e.g. `strlen`, `strncpy`, `memcpy`).
-- Comprobaciones de caracteres (e.g. `isalpha`, `isdigit`).
+- Manipulación de cadenas y memoria (`strlen`, `strncpy`, `memcpy`).
+- Comprobaciones de caracteres (`isalpha`, `isdigit`).
 - Gestión dinámica de memoria: implementando funciones como `calloc` y `strdup`.
 - Conversión de tipos (`atoi`, `itoa`, `toupper`, `tolower`).
 - Funciones adicionales como `ft_split`, `ft_strjoin`, y más.
